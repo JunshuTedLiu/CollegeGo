@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		78F6AC251E2A0911009C0CAD /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78F6AC241E2A0911009C0CAD /* LoginViewController.swift */; };
 		78F6AC271E2A092C009C0CAD /* RegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78F6AC261E2A092C009C0CAD /* RegisterViewController.swift */; };
-		78F6AC291E2A0EEF009C0CAD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 78F6AC281E2A0EEF009C0CAD /* Main.storyboard */; };
 		E1699FC01E29EE1500E09E7F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1699FBF1E29EE1500E09E7F /* AppDelegate.swift */; };
 		E1699FC21E29EE1500E09E7F /* LoginRegistarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1699FC11E29EE1500E09E7F /* LoginRegistarController.swift */; };
 		E1699FC51E29EE1500E09E7F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E1699FC31E29EE1500E09E7F /* Main.storyboard */; };
@@ -21,7 +20,6 @@
 /* Begin PBXFileReference section */
 		78F6AC241E2A0911009C0CAD /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		78F6AC261E2A092C009C0CAD /* RegisterViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RegisterViewController.swift; sourceTree = "<group>"; };
-		78F6AC281E2A0EEF009C0CAD /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = "../../Desktop/HackAZ/Login Page/Main.storyboard"; sourceTree = "<group>"; };
 		E1699FBC1E29EE1500E09E7F /* CollegeGo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CollegeGo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E1699FBF1E29EE1500E09E7F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E1699FC11E29EE1500E09E7F /* LoginRegistarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginRegistarController.swift; sourceTree = "<group>"; };
@@ -46,7 +44,6 @@
 		E1699FB31E29EE1500E09E7F = {
 			isa = PBXGroup;
 			children = (
-				78F6AC281E2A0EEF009C0CAD /* Main.storyboard */,
 				E1699FBE1E29EE1500E09E7F /* CollegeGo */,
 				E1699FBD1E29EE1500E09E7F /* Products */,
 			);
@@ -138,7 +135,6 @@
 				E1699FCD1E29EE1500E09E7F /* LaunchScreen.storyboard in Resources */,
 				E1699FCA1E29EE1500E09E7F /* Assets.xcassets in Resources */,
 				E1699FC51E29EE1500E09E7F /* Main.storyboard in Resources */,
-				78F6AC291E2A0EEF009C0CAD /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
